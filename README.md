@@ -1,6 +1,8 @@
 # smart_cooler
 レジなし無人販売冷蔵庫
 
+https://dev.classmethod.jp/articles/smart-cooler-011
+
 
 # setup
 ```
